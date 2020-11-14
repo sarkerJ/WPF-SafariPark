@@ -28,7 +28,7 @@ Safari Project used to learn more about **SOLID** principles
 
 ##### Class Diagram
 
-![Class Diagram]()
+![Class Diagram](https://github.com/sarkerJ/WPF-SafariPark/blob/main/Images/Class%20Diagram.JPG)
 
 
 
