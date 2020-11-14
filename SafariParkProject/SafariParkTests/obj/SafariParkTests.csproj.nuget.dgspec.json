@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\miniprojects\\SafariParkProject\\SafariParkTests\\SafariParkTests.csproj": {}
+    "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\Mini Projects\\SafaryParkProjectFolder\\WPF-SafariPark\\SafariParkProject\\SafariParkTests\\SafariParkTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\miniprojects\\SafariParkProject\\SafariParkTests\\SafariParkTests.csproj": {
+    "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\Mini Projects\\SafaryParkProjectFolder\\WPF-SafariPark\\SafariParkProject\\SafariParkTests\\SafariParkTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\miniprojects\\SafariParkProject\\SafariParkTests\\SafariParkTests.csproj",
+        "projectUniqueName": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\Mini Projects\\SafaryParkProjectFolder\\WPF-SafariPark\\SafariParkProject\\SafariParkTests\\SafariParkTests.csproj",
         "projectName": "SafariParkTests",
-        "projectPath": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\miniprojects\\SafariParkProject\\SafariParkTests\\SafariParkTests.csproj",
+        "projectPath": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\Mini Projects\\SafaryParkProjectFolder\\WPF-SafariPark\\SafariParkProject\\SafariParkTests\\SafariParkTests.csproj",
         "packagesPath": "C:\\Users\\saadi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\miniprojects\\SafariParkProject\\SafariParkTests\\obj\\",
+        "outputPath": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\Mini Projects\\SafaryParkProjectFolder\\WPF-SafariPark\\SafariParkProject\\SafariParkTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\miniprojects\\SafariParkProject\\SafaryPark\\SafaryPark.csproj": {
-                "projectPath": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\miniprojects\\SafariParkProject\\SafaryPark\\SafaryPark.csproj"
+              "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\Mini Projects\\SafaryParkProjectFolder\\WPF-SafariPark\\SafariParkProject\\SafaryPark\\SafaryPark.csproj": {
+                "projectPath": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\Mini Projects\\SafaryParkProjectFolder\\WPF-SafariPark\\SafariParkProject\\SafaryPark\\SafaryPark.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\miniprojects\\SafariParkProject\\SafaryPark\\SafaryPark.csproj": {
+    "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\Mini Projects\\SafaryParkProjectFolder\\WPF-SafariPark\\SafariParkProject\\SafaryPark\\SafaryPark.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\miniprojects\\SafariParkProject\\SafaryPark\\SafaryPark.csproj",
+        "projectUniqueName": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\Mini Projects\\SafaryParkProjectFolder\\WPF-SafariPark\\SafariParkProject\\SafaryPark\\SafaryPark.csproj",
         "projectName": "SafaryPark",
-        "projectPath": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\miniprojects\\SafariParkProject\\SafaryPark\\SafaryPark.csproj",
+        "projectPath": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\Mini Projects\\SafaryParkProjectFolder\\WPF-SafariPark\\SafariParkProject\\SafaryPark\\SafaryPark.csproj",
         "packagesPath": "C:\\Users\\saadi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\miniprojects\\SafariParkProject\\SafaryPark\\obj\\",
+        "outputPath": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\Mini Projects\\SafaryParkProjectFolder\\WPF-SafariPark\\SafariParkProject\\SafaryPark\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

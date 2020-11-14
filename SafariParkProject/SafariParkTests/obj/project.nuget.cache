@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9u+Cp1fhVGcFsaFlSKrJQ2RKI1rKHJ9Sc7kGL76yLJjrKukwnMMYToMg5ihRL1A7DpCPwxk9IThj5O7q3vZXaQ==",
+  "dgSpecHash": "rPSKsPbS2AXdvdZydMSdqBJOwx/AddmQ1g3FY1nBq8Ffm2vRvoP5DBPpBs8iexypIk1hfxayteWyaHuOnw3+Bw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\miniprojects\\SafariParkProject\\SafariParkTests\\SafariParkTests.csproj",
+  "projectFilePath": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\Mini Projects\\SafaryParkProjectFolder\\WPF-SafariPark\\SafariParkProject\\SafariParkTests\\SafariParkTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saadi\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\saadi\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
